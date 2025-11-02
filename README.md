@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning in **Department of Computer Science**
 
-- 👨‍💻 All of my projects are available at [https://github.com/SharifulIslamAkash7x/SharifulIslamAkash7x](https://github.com/SharifulIslamAkash7x/SharifulIslamAkash7x)
+- 👨‍💻 All of my projects are available at [https://github.com/SharifIAkash/SharifIAkash](https://github.com/SharifIAkash/SharifIAkash)
 
 - 💬 Ask me about **react, vue and gsap**
 
